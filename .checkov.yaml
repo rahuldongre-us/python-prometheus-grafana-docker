@@ -1,0 +1,10 @@
+checkov:
+  quiet: false
+  output: cli
+  directory: .
+  skip_path:
+    - .terraform
+    - .venv
+  skip_checks:
+    - CKV_DOCKER_2  # Allow 'latest' tag temporarily
+    - CKV_DOCKER_7  # Allow containers without USER

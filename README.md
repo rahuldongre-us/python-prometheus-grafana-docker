@@ -2,6 +2,13 @@
 
 Monitor your Python applications in real-time with a production-ready monitoring stack using **Prometheus**, **Grafana** and **Docker**. This repository helps developers and DevOps engineers bootstrap observability for microservices or monoliths with minimal setup. Checkov uses a common command line interface to manage and analyze infrastructure as code (IaC) scan results across platforms such as Terraform and other framework. Trivy to find vulnerabilities (CVE) & misconfigurations (IaC) across code repositories, binary artifacts, container images and more. All in one tool!
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+![Docker Compose](https://img.shields.io/badge/Docker--Compose-Ready-blue)
+[![Stars](https://img.shields.io/github/stars/rahuldongre-us/python-prometheus-grafana-docker?style=social)](https://github.com/rahuldongre-us/python-prometheus-grafana-docker/stargazers)
+[![Issues](https://img.shields.io/github/issues/rahuldongre-us/python-prometheus-grafana-docker)](https://github.com/rahuldongre-us/python-prometheus-grafana-docker/issues)
+[![Last Commit](https://img.shields.io/github/last-commit/rahuldongre-us/python-prometheus-grafana-docker)](https://github.com/rahuldongre-us/python-prometheus-grafana-docker/commits/main)
+
+
 ---
 
 ## 📊 Features
